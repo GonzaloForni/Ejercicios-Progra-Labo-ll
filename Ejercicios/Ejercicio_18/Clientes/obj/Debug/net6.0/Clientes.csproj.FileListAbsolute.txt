@@ -1,0 +1,12 @@
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\bin\Debug\net6.0\Clientes.deps.json
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\bin\Debug\net6.0\Clientes.dll
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\bin\Debug\net6.0\Clientes.pdb
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.dll
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\refint\Clientes.dll
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\Clientes.pdb
+C:\Users\Gonza\Desktop\Labo-Progra II\Ejercicios\Ejercicio_18\Clientes\obj\Debug\net6.0\ref\Clientes.dll
